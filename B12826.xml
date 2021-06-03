@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the banishing of Giles Mompesson.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12826</idno><idno type="EEBO-CITATION">99892559</idno>
+  <idno type="VID">188955</idno>
+  <idno type="EEBO-PROQUEST">2240934734</idno>
+  
+            <idno type="STC">STC 8662</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7614[234]</idno>
+            <idno type="PROQUEST">ocm99892559</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892559e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188955)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C14:1[97])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the banishing of Giles Mompesson.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton, and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXI. [1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giles Mempesson, late knight, has been degraded from his knighthood by Parliament, and sentenced to other punishments. During trial he escapted from his keeper. He is banished from the three kingdoms as a person infamous, must depart forthwith, if therein, and never return, on pain, &amp;c." -- Steele.</note>
+                  <note>At end of text: Giuen at Our palace of Westminster the thirtieth of March, in the nineteenth yeere of Our reigne of Great Britaine, France, and Ireland.</note>
+                  <note>Steele notation: Arms 14  insuffer-  from  inflict.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mompesson, Giles, --  Sir, 1584-1651? --  Exile --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="proclamation">
+                  <pb facs="tcp:188955:1"/>
+                  <head>¶ By the King.
+<figure>
+                        <figDesc>Royal blazon or coat of arms.</figDesc>
+                     </figure>
+                  </head>
+                  <head type="sub">❧ A Proclamation for the Banishing of <hi>Giles Mompesson.</hi>
+                  </head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">W</seg>Hereas <hi>Giles Mompesson,</hi> late Knight, for great and insuffer<g ref="char:EOLhyphen"/>able</hi> crimes by him committed, to the abuse of his Maiestie, and grieuous oppression of his Subiects, hath by the high Court of Parliament beene declared to bee Degraded of the Order of Knighthood, and sentenced and adiudged to susteine and beare other punishments, as by the Record of the foresaid Iudge<g ref="char:EOLhyphen"/>ment appeareth: The Kings most Excellent Maiestie approo<g ref="char:EOLhyphen"/>uing in all things the iust proceedings and sentence of the same his high Court of Parliament; Which to preuent, the said <hi>Mompesson</hi> (while the matters were in examination) escaped from his Keeper, and fled, and is not now to be found. Ne<g ref="char:EOLhyphen"/>uerthelesse, His Maiestie (desiring to assure all his louing Subiects, how hatefull and of<g ref="char:EOLhyphen"/>fensiue it is to His Maiestie, that His people should be so iniured, molested, vexed or oppressed, and willing by the seueritie of His Iustice to deterre all others from any like attempt or enterprise hereafter) hath resolued (ouer and besides all the punishments inflicted vpon the said <hi>Mompesson,</hi> by the Iudgement of Parliament) to adde this further punishment, in detestation of his offences, vtterly to Banish and expell the said <hi>Giles Mompesson</hi> out of His Realmes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and all other His Maiesties Dominions, as a per<g ref="char:EOLhyphen"/>son infamous and vnworthy to partake of any the comforts of His Maiesties happy Go<g ref="char:EOLhyphen"/>uernment. And therefore His Maiestie doth hereby expresly charge and command, that the said <hi>Giles Mompesson,</hi> if now he be abiding within any of His Maiesties Dominions, doe forth<g ref="char:EOLhyphen"/>with, after the publication hereof, depart and withdraw himselfe out of the same: And that after such his departure, or if he be now in any parts out of His Maiesties Dominions, that he doe not at any time hereafter returne into the same or any of them, vpon paine to incurre, not onely the seuerest &amp; vttermost execution of the said Sentence and Iudgement of Parliament, but the forfeiture of whatsoeuer he may forfeit to His Maiestie, and of all such further punishment as His Maiesty in His Kingly power and prerogatiue may inflict vpon him.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Giuen at Our Palace of Westminster</hi>
+                        <date>
+                           <hi>the thirtieth of March, in the nineteenth yeere of Our Reigne of Great Britaine, France, and Ireland.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <closer>God saue the King.</closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>❧ Imprinted at London by BONHAM NORTON, and IOHN BILL, Printers to the Kings most Excellent Maiestie. M.DC.XXI.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="proclamation">
+                  <pb facs="tcp:188955:2"/>
+                  <p>His Maiestie (of his blessed disposition for the Weale of His Subiects) being carefull to stoppe the current of this growing euill, vntill vpon mature deliberation, an exact and full remedy may be prouided by Parliament in that behalfe, Doth hereby signifie and de<g ref="char:EOLhyphen"/>clare his most gracious Will and pleasure, and doth expresly charge and command, That all and euery Iudge &amp; Iudges in the sayd Courts of Equity, where such Billes of con<g ref="char:EOLhyphen"/>formity doe depend, for so much of the matter in those seuerall Billes conteyned as concer<g ref="char:EOLhyphen"/>neth such conformity as aforesaid, and for and concerning all such persons, parties to those Suits, which haue not consented thereunto, shall forthwith, absolutely dismisse the same, and that the said Defendants in such suits be not bound or pressed to any further atten<g ref="char:EOLhyphen"/>dance in that behalfe. And that all Orders, Sentences, Decrees, Iniunctions and other restraints or Proces whatsoeuer grounded vpon any such Bill or Suite to the preiudice, hurt or hindrance of any Creditor or Creditors (not hauing consented as aforesaid) and the execution of the same, be from henceforth fully and wholly suspended, and not to be put in execution vntill order and prouision by some Act of Parliament, for a perpetuall refor<g ref="char:EOLhyphen"/>mation thereof bee had and taken in that behalfe. And that no Bill or Suite of the effect or nature aforesaid be hereafter receiued, accepted or allowed in the sayd Court of Chancery or other Court of Equity, vntill some such order as aforesaid bee taken in Parliament. And that all and euery person and persons now being in prison, or restrayned of liberty, or stan<g ref="char:EOLhyphen"/>ding vpon Bond, Bayle or Mainprise, by or by reason of any such Order, Sentence, Decree, Iniunction or other restraint, (and for no other cause) vpon any Bill or Suit of the effect or nature aforesaid in any of the said Courts of Equity whatsouer, or by reason of any procee<g ref="char:EOLhyphen"/>ding thereupon, bee forthwith by the sayd Iudge and Iudges of the sayd Courts of Equity, set at liberty and freed from his and their imprisonment or restraint, and be dischar<g ref="char:EOLhyphen"/>ged of his and their Bonds, Recognizances, Bayle or Mainprise for appearance, without molestation, vexation or trouble for or by reason of any such Order, Sentence, Decree, Iniunction, Restraint, Bond, Recognizance, Bayle or Mainprise vntill such furtheror<g ref="char:EOLhyphen"/>der be taken in Parliament as aforesayd. And therefore His Maiesty doth authorise and require aswell the Lord Chauncellor of England, as all other His Maiesties Iudges and Iustices, &amp; other persons whatsoeuer, hauing any place of Iudicature, &amp; all and euery His Officers, Ministers and Subiects that now bee or hereafter shalbe, to see and cause this His Maiesties pleasure duely with all conuenient expedition to be put in execution.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Giuen at Our Palace of Westminster</hi>
+                        <date>
+                           <hi>the one and thirtieth day of March, in the nineteenth yeere of Our Reigne of Great Britaine, France and Ireland.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <closer>God saue the King.</closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>❧ Imprinted at London by BONHAM NORTON, and IOHN BILL, Printers to the Kings most Excellent Maiestie. M.DC.XXI.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
